@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**mrkcee/mrkcee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Current Role: Data Architect
+Previous Roles:
+- Data Engineer
+- Integration Developer
+- JD Edwards Business Analyst
+- JD Edwards Developer
 
-Here are some ideas to get you started:
+#### Interests
+- :penguin: Linux enthusiast: ported openSUSE Tumbleweed to Apple Silicon using Asahi Linux (for personal use)
+- :video_game: Video games: currently playing Monster Hunter Wilds and Path of Exile 2
+- :coffee: Coffee (is life)
+- :musical_note: Collecting records
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact me
+- [Mastodon/Fediverse](https://mas.to/mrkcee)
